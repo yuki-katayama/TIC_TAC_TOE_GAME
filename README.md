@@ -1,4 +1,4 @@
-# marubatu
+# TIC TAC TOE Game
 
 ### This is TIC TAC TOE Game(丸罰ゲームです)
 
