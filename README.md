@@ -2,6 +2,8 @@
 
 ### This is TIC TAC TOE Game(丸罰ゲームです)
 
+![pic-1](https://i.gyazo.com/b1e231bf214ec34d8f24efda5d5e53c3.png)
+
 ## Build Setup
 
 ```bash
